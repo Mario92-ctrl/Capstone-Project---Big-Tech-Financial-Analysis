@@ -8,7 +8,12 @@ L'analisi è stata sviluppata seguendo un processo completo di Data Analytics, p
 L'obiettivo principale è comprendere come differenti modelli di business influenzino indicatori economico-finanziari quali Revenue, Net Income, Profit Margin, Stock Price e Market Cap, evidenziando similitudini e differenze tra le principali Big Tech.
 
  Obiettivi del progetto 🎯
-Analizzare l'evoluzione delle performance finanziarie delle principali aziende Big Tech.
-Confrontare i principali indicatori economico-finanziari nel periodo 2020–2025.
-Analizzare l'andamento della Market Cap e dello Stock Price.
-Evidenziare le differenze tra i diversi Business Sector.
+ 
+- Analizzare l'evoluzione delle performance finanziarie delle principali aziende Big Tech
+
+- Confrontare i principali indicatori economico-finanziari nel periodo 2020–2025
+
+- Analizzare l'andamento della Market Cap e dello Stock Price
+
+- Evidenziare le differenze tra i diversi Business Sector
+
