@@ -11,13 +11,38 @@ __Fonti dei dati__
 
 I dati utilizzati nel progetto sono stati raccolti da diverse fonti finanziarie pubblicamente disponibili:
 
-Macrotrends è stato utilizzato per la raccolta dei dati annuali relativi a Revenue e Net Income delle sei aziende analizzate nel periodo 2020–2025.
+- Macrotrends è stato utilizzato per la raccolta dei dati annuali relativi a Revenue e Net Income delle sei aziende analizzate nel periodo 2020–2025.
 
-CompaniesMarketCap è stato utilizzato per raccogliere i dati storici annuali relativi alla Market Cap.
+- CompaniesMarketCap è stato utilizzato per raccogliere i dati storici annuali relativi alla Market Cap.
 
-Yahoo Finance è stato utilizzato come fonte per i dati storici dello Stock Price. I dati sono stati scaricati tramite Python utilizzando la libreria yfinance.
+- Yahoo Finance è stato utilizzato come fonte per i dati storici dello Stock Price. I dati sono stati scaricati tramite Python utilizzando la libreria yfinance.
 
-I dati raccolti sono stati successivamente organizzati in dataset strutturati e importati in Power BI. La fase di pulizia e trasformazione è stata eseguita tramite Power Query, prestando particolare attenzione alla corretta formattazione dei valori numerici e alla coerenza dei dati nel periodo analizzato
+- I dati raccolti sono stati successivamente organizzati in dataset strutturati e importati in Power BI. La fase di pulizia e trasformazione è stata eseguita tramite Power Query, prestando particolare attenzione alla corretta formattazione dei valori numerici e alla coerenza dei dati nel periodo analizzato
+
+__Strumenti utilizzati__ 🛠️
+
+- Python e yfinance per il download dei dati storici dello Stock Price
+
+- Pandas per la gestione e l'organizzazione dei dati
+
+- Excel per la strutturazione dei dataset
+
+- Power Query per la pulizia e la trasformazione dei dati
+
+- Power BI per la modellazione dei dati, la creazione delle misure DAX e lo sviluppo della dashboard interattiva
+
+
+__Struttura della dashboard__
+
+La dashboard è strutturata in quattro sezioni principali:
+
+- Panoramica di Mercato – confronto dei principali KPI e delle classifiche aziendali
+
+- Analisi delle Performance Finanziarie – evoluzione di Revenue, Net Income e Profit Margin
+
+- Performance Azionarie e Market Cap – analisi dell'andamento dello Stock Price e della Market Cap
+
+- Business Sector & Technology Trends – confronto delle performance in relazione al core business delle aziende
 
  __Obiettivi del progetto__ 🎯
  
